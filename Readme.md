@@ -316,10 +316,10 @@ Customers were segmented using three behavioural metrics:
 
 Customer segments include:
 
-- 🏆 Champions
-- ⭐ Loyal Customers
-- ⚠️ At Risk
-- ❌ Lost Customers
+- Champions
+- Loyal Customers
+- At Risk
+- Lost Customers
 
 ---
 
