@@ -16,12 +16,9 @@
 
 # Dashboard Preview
 
-> Replace the image below with your dashboard cover screenshot.
-
 <p align="center">
 
-<img src="KPI Dashboard - pg1.png" width="900">
-
+<img src="images/executive_dashboard.png" width="900">
 
 </p>
 
@@ -44,8 +41,9 @@
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [Business Opportunities](#business-opportunities)
-- [Recommendations](#recommendations)
+- [Business Recommendations](#business-recommendations)
 - [Final Conclusion](#final-conclusion)
+- [Repository Structure](#repository-structure)
 - [Installation](#installation)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
@@ -122,7 +120,7 @@ The primary objectives of this project were to:
 
 **Source**
 
-UCI Machine Learning Repository
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 **Dataset**
 
@@ -319,10 +317,10 @@ Customers were segmented using three behavioural metrics:
 
 Customer segments include:
 
-- 🏆 Champions
-- ⭐ Loyal Customers
-- ⚠️ At Risk
-- ❌ Lost Customers
+- Champions
+- Loyal Customers
+- At Risk
+- Lost Customers
 
 ---
 
@@ -357,11 +355,11 @@ The Power BI dashboard is organised into three report pages.
 - Revenue by Market
 - Interactive slicers
 
-> 📷 Replace with your screenshot.
+> Dashboard Preview
 
-```markdown
-![Executive Dashboard](images/executive_dashboard.png)
-```
+<p align="center">
+<img src="images/executive_dashboard.png" width="900">
+
 
 ---
 
@@ -374,33 +372,12 @@ The Power BI dashboard is organised into three report pages.
 - Product Revenue Contribution
 - Revenue by Country
 
-> 📷 Replace with your screenshot.
+> Dashboard Preview
 
-```markdown
-![Product Dashboard](images/product_market_performance.png)
-```
-
+<p align="center">
+<img src="images/product_market_performance.png" width="900">
 ---
 
-## 👥 Page 3 – Customer Analytics
-
-**Features**
-
-- RFM Segment Distribution
-- Revenue by Customer Segment
-- Customer Retention Cohort Heatmap
-
-> 📷 Replace with your screenshot.
-
-```markdown
-![Customer Dashboard](images/customer_analytics.png)
-```
-
-<p align="right">
-<a href="#-online-retail-sales-analytics-dashboard">⬆ Back to Top</a>
-</p>
-
----
 
 # ➜ Continue to Part 2
 
@@ -686,8 +663,6 @@ online-retail-sales-analytics/
 ├── images/
 │   ├── executive_dashboard.png
 │   ├── product_market_performance.png
-│   ├── customer_analytics.png
-│   ├── cohort_heatmap.png
 │
 ├── requirements.txt
 ├── README.md
@@ -705,7 +680,7 @@ online-retail-sales-analytics/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/online-retail-sales-analytics.git
+git clone https://github.com/Oyekem/Sales_dashboard.git
 ```
 
 Navigate into the project directory:
