@@ -16,8 +16,6 @@
 
 # Dashboard Preview
 
-> Replace the image below with your dashboard cover screenshot.
-
 <p align="center">
 
 <img src="images/executive_dashboard.png" width="900">
@@ -121,7 +119,7 @@ The primary objectives of this project were to:
 
 **Source**
 
-UCI Machine Learning Repository
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 **Dataset**
 
