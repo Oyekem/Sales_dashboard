@@ -20,8 +20,7 @@
 
 <p align="center">
 
-<img src="KPI Dashboard - pg1.png" width="900">
-
+<img src="images/executive_dashboard.png" width="900">
 
 </p>
 
