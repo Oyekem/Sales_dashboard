@@ -355,6 +355,7 @@ The Power BI dashboard is organised into three report pages.
 - Interactive slicers
 
 > Dashboard Preview
+
 <p align="center">
 <img src="images/executive_dashboard.png" width="900">
 
@@ -370,12 +371,10 @@ The Power BI dashboard is organised into three report pages.
 - Product Revenue Contribution
 - Revenue by Country
 
-> 📷 Replace with your screenshot.
+> Dashboard Preview
 
-```markdown
-![Product Dashboard](images/product_market_performance.png)
-```
-
+<p align="center">
+<img src="images/product_market_performance.png" width="900">
 ---
 
 ## 👥 Page 3 – Customer Analytics
