@@ -663,8 +663,6 @@ online-retail-sales-analytics/
 ├── images/
 │   ├── executive_dashboard.png
 │   ├── product_market_performance.png
-│   ├── customer_analytics.png
-│   ├── cohort_heatmap.png
 │
 ├── requirements.txt
 ├── README.md
@@ -682,7 +680,7 @@ online-retail-sales-analytics/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/online-retail-sales-analytics.git
+git clone https://github.com/Oyekem/Sales_dashboard.git
 ```
 
 Navigate into the project directory:
