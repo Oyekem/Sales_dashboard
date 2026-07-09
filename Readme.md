@@ -41,7 +41,7 @@
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [Business Opportunities](#business-opportunities)
-- [Recommendations](#recommendations)
+- [Business Recommendations](#business-recommendations)
 - [Final Conclusion](#final-conclusion)
 - [Installation](#installation)
 - [Future Improvements](#future-improvements)
@@ -377,25 +377,6 @@ The Power BI dashboard is organised into three report pages.
 <img src="images/product_market_performance.png" width="900">
 ---
 
-## 👥 Page 3 – Customer Analytics
-
-**Features**
-
-- RFM Segment Distribution
-- Revenue by Customer Segment
-- Customer Retention Cohort Heatmap
-
-> 📷 Replace with your screenshot.
-
-```markdown
-![Customer Dashboard](images/customer_analytics.png)
-```
-
-<p align="right">
-<a href="#-online-retail-sales-analytics-dashboard">⬆ Back to Top</a>
-</p>
-
----
 
 # ➜ Continue to Part 2
 
