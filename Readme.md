@@ -43,6 +43,7 @@
 - [Business Opportunities](#business-opportunities)
 - [Business Recommendations](#business-recommendations)
 - [Final Conclusion](#final-conclusion)
+- [Repository Structure](#repository-structure)
 - [Installation](#installation)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
