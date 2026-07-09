@@ -354,10 +354,12 @@ The Power BI dashboard is organised into three report pages.
 - Revenue by Market
 - Interactive slicers
 
-> 📷 Replace with your screenshot.
+
 
 ```markdown
 ![Executive Dashboard](images/executive_dashboard.png)
+<img src="images/executive_dashboard.png" width="900">
+
 ```
 
 ---
