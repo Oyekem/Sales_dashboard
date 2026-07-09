@@ -1,5 +1,6 @@
 # 📊 Online Retail Sales Analytics Dashboard
 
+
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +20,9 @@
 
 <p align="center">
 
-<img src="images/executive_dashboard.png" width="900">
+<img src="images/KPI dashboard - pg1.png" width="900">
+
+https://github.com/Oyekem/Sales_dashboard/blob/main/images/KPI%20Dashboard%20-%20pg1.png
 
 </p>
 
